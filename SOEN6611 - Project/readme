@@ -29,6 +29,8 @@ IDE used: Eclipse
 
 Plugin/Tool Used: Mccabe IQ
 
+Go to the link: https://drive.google.com/drive/u/0/folders/1FoGPvWXlFeWAC4aSfflZfZ9tLujLzQy1
+
 Steps to check the data:
 Open folder checksum CC.
 Then open any folder example checksum version 1.5.
@@ -39,7 +41,7 @@ Find index.html and run it using any browser.
 
 4. The folder Metric_5 contain the images of the results of eight versions of each open source software along with data obtained by calculation.
 
-The configuration for testing each open source software is shown in the image example checkstyle_config_spotbug 
+The configuration for testing each open source software is shown in the image, example checkstyle_config_spotbug 
 
 Plugin/Tool Used: Spotbugs/Github
 IDE used: Eclipse
@@ -47,7 +49,7 @@ Formula used: Defect Removal Density = (Development defect/ total defect) * 100
 
 5. The folder Metric_6 contain the images of the results of eight versions of each open source software along with data obtained by calculation.
 
-The configuration for testing each open source software is shown in the image example checkstyle_config_spotbug 
+The configuration for testing each open source software is shown in the image, example checkstyle_config_spotbug 
 
 Plugin/Tool Used: Spotbugs/Github
 IDE used: Eclipse
